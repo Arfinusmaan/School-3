@@ -1,0 +1,82 @@
+HOME PAGE :
+
+Name:"Akshaya Academy",
+Tagline:"Nurturing Tomorrow's Leaders in Nature's Embrace",
+Description:"Located in the serene hills of Palani, Akshaya Academy provides holistic education that connects students with nature while preparing them for a bright future.",
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Happy Students:500+
+Years Excellence:16
+Subjects:15+
+Eco-Friendly:100%
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Heading:Life at Akshaya Academy
+Tagline:Experience the vibrant learning environment and natural beauty of our campus.
+Image AltName :Interactive Learning
+Image AltName :Nature studies
+Image AltName :Creative Arts
+Image Altname :Organic Gardening
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Heading:Our Academic Programs
+Tagline:Comprehensive education programs designed to nurture young minds at every stage of development.
+
+name: Pre-Primary (Nursery - UKG),
+description: "Foundation learning through play-based activities and nature exploration.",
+ageGroup: "3-5 years"
+
+name:Primary School (1st - 5th),
+description: Building core skills in mathematics, languages, sciences, and environmental studies.,
+ageGroup: "6-10 years"
+
+name: "Middle School (6th - 8th)",
+description: "Comprehensive curriculum with focus on critical thinking and creativity.",
+ageGroup: "11-13 years"
+
+name: "High School (9th - 12th)",
+description: "Advanced academics with career guidance and competitive exam preparation.",
+ageGroup: "14-17 years"
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What Parents Say
+"Akshaya Academy has transformed my daughter's love for learning. The nature-integrated curriculum is exceptional."
+
+Priya Sharma
+Parent of Grade 7 Student
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Heading:Campus Highlights
+Tagline:Discover our state-of-the-art facilities and beautiful natural environment.
+
+ImageName:Modern Library
+ImageTagline:Extensive collection with digital resources and quiet study spaces.
+
+ImageName:Sports Complex
+ImageTagline:Multi-sport facilities including basketball, volleyball, and athletics.
+
+ImageName:Science Laboratories
+ImageTagline:Well-equipped labs for physics, chemistry, and biology experiments.
+
+ImageName:Beautiful Campus
+ImageTagline:Nestled in the serene hills of Palani
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Footer:
+School Name :Akshaya Academy
+Tagline:Located in the serene hills of Palani, Akshaya Academy provides holistic education that connects students with nature while preparing them for a bright future.
+
+Established in 2008
+
+Contact Us:123 Hill View Road, Palani, Tamil Nadu 624601
+
+Mobile Number:+91 98765 43210
+
+EmailId: info@akshayaacademy.edu.in
+
+Quick Links:
+Admissions
+Academic Programs
+Facilities
+Upcoming Events
+Contact Us
+© 2024 Akshaya Academy. All rights reserved.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------

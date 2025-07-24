@@ -1,0 +1,38 @@
+
+Page Title: Gallery
+Subtitle: Moments That Matter
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Section: Our School Life
+Explore the vibrant moments and memorable experiences at Akshaya Academy.
+
+Gallery Categories:
+- All
+- School Life
+- Academics
+- Activities
+- Sports
+
+Images shown in the gallery represent:
+- Classroom learning moments
+- Science experiments
+- Student activities
+- Art class
+- Group projects
+- Cultural and eco events
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Footer:
+Akshaya Academy
+Located in the serene hills of Palani, Akshaya Academy provides holistic education that connects students with nature while preparing them for a bright future.
+Established in 2008
+
+Contact Us:
+123 Hill View Road, Palani, Tamil Nadu – 624601
++91 98765 43210
+info@akshayaacademy.edu.in
+
+Quick Links:
+- Admissions
+- Academic Programs
+- Facilities
+- Upcoming Events
+- Contact Us
